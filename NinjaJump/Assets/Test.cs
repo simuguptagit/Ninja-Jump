@@ -60,7 +60,7 @@ public class Test : MonoBehaviour {
 		PlayerPrefs.SetInt("FailOccurLocal",  0) ;
 		PlayerPrefs.SetInt("PauseOccurLocal",  0) ;
 
-			string url = "http://quantum4you.com/piqvalue.php?val=NINJA_GAME";
+			string url = "http://quantum4you.com/piqvalue.php?val=NINJA_GAME2";
 			WWW www = new WWW (url);
 			StartCoroutine (WaitForRequest (www));
 	

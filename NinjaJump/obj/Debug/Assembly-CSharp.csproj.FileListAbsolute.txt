@@ -26,5 +26,6 @@ C:\Users\Acer\Documents\NinjaJump\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner
 C:\Users\Acer\Documents\NinjaJump\Temp\bin\Debug\UnityEngine.Analytics.xml
 C:\Users\Acer\Documents\NinjaJump\Temp\bin\Debug\UnityEngine.HoloLens.xml
 C:\Users\Acer\Documents\NinjaJump\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Acer\Documents\NinjaJump\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 C:\Users\Acer\Documents\NinjaJump\obj\Debug\Assembly-CSharp.dll
 C:\Users\Acer\Documents\NinjaJump\obj\Debug\Assembly-CSharp.pdb
